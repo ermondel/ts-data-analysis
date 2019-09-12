@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ermondel/udemy-ts-data-analysis#readme",
   "dependencies": {
+    "@types/node": "^12.7.5",
     "concurrently": "^4.1.2",
     "nodemon": "^1.19.2"
   }
