@@ -1,7 +1,7 @@
 {
-  "name": "udemy-ts-data-analysis",
+  "name": "ts-data-analysis",
   "version": "1.0.0",
-  "description": "udemy ts data analysis",
+  "description": "ts data analysis",
   "main": "index.js",
   "scripts": {
     "start:build": "tsc -w",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ermondel/udemy-ts-data-analysis.git"
+    "url": "git+https://github.com/ermondel/ts-data-analysis.git"
   },
   "author": "ermondel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ermondel/udemy-ts-data-analysis/issues"
+    "url": "https://github.com/ermondel/ts-data-analysis/issues"
   },
-  "homepage": "https://github.com/ermondel/udemy-ts-data-analysis#readme",
+  "homepage": "https://github.com/ermondel/ts-data-analysis#readme",
   "dependencies": {
     "@types/node": "^12.7.5",
     "concurrently": "^4.1.2",
